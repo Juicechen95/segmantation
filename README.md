@@ -1,4 +1,4 @@
-# segmantation
+# Segmantation
 learning notes on segmantation. prefer resnet model and torch/pytorch opensource.
 
 # Semantic segmantation
